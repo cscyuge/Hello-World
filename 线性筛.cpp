@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 #define ll long long
-const int MAXN=2e7+5;
+const int MAXN=2e6+5;
 
 int prim[MAXN],np[MAXN],pn,mu[MAXN],phi[MAXN],d[MAXN],ad[MAXN];
 
